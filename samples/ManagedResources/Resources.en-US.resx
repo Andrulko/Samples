@@ -118,37 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"/>
-  <data name="ComicSansMS16" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\comicsansms16.tinyfnt;System.Byte[], mscorlib, Version=1.3.0.3, Culture=neutral, PublicKeyToken=c07d481e9758c731</value>
+  <data name="nano_Framework_logo_32_border_trans" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\nano-Framework-logo-32-border-trans.png;System.Byte[], mscorlib, Version=1.0.1.0, Culture=neutral, PublicKeyToken=c07d481e9758c731</value>
   </data>
-  <data name="CourierRegular10" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\courierregular10.tinyfnt;System.Byte[], mscorlib, Version=1.3.0.3, Culture=neutral, PublicKeyToken=c07d481e9758c731</value>
+  <data name="String1" xml:space="preserve">
+    <value>This is string 1</value>
   </data>
-  <data name="MatrixFont" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>resources\matrixfont.tinyfnt;System.Byte[], mscorlib, Version=1.5.1.0, Culture=neutral, PublicKeyToken=c07d481e9758c731</value>
-  </data>
-  <data name="NinaB" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\ninab.tinyfnt;System.Byte[], mscorlib, Version=1.3.0.3, Culture=neutral, PublicKeyToken=c07d481e9758c731</value>
-  </data>
-  <data name="SegoeUIRegular12" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\segoeuiregular12.tinyfnt;System.Byte[], mscorlib, Version=1.3.0.3, Culture=neutral, PublicKeyToken=c07d481e9758c731</value>
-  </data>
-  <data name="small" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>Resources\small.tinyfnt;System.Byte[], mscorlib, Version=1.3.0.3, Culture=neutral, PublicKeyToken=c07d481e9758c731</value>
-  </data>
-  <data name="strComicSansMS16" xml:space="preserve">
-    <value>This is some text in ComicSansMS16</value>
-  </data>
-  <data name="strCourierRegular10" xml:space="preserve">
-    <value>This is some text in CourierRegular10</value>
-  </data>
-  <data name="strNinaFont" xml:space="preserve">
-    <value>This is some text in NinaB.tinyfnt</value>
-  </data>
-  <data name="strnSmallFont" xml:space="preserve">
-    <value>This is some text in small.tinyfnt</value>
-  </data>
-  <data name="strSegoeUIRegular12" xml:space="preserve">
-    <value>This is some text in SegoeUIRegular12</value>
+  <data name="String2" xml:space="preserve">
+    <value>This is string 2</value>
   </data>
 </root>

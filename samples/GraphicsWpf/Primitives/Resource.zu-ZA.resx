@@ -137,18 +137,18 @@
     <value>Resources\small.tinyfnt;System.Byte[], mscorlib, Version=1.3.0.3, Culture=neutral, PublicKeyToken=c07d481e9758c731</value>
   </data>
   <data name="strComicSansMS16" xml:space="preserve">
-    <value>This is some text in ComicSansMS16</value>
+    <value>crwdns6646622:0crwdne6646622:0</value>
   </data>
   <data name="strCourierRegular10" xml:space="preserve">
-    <value>This is some text in CourierRegular10</value>
+    <value>crwdns6646624:0crwdne6646624:0</value>
   </data>
   <data name="strNinaFont" xml:space="preserve">
-    <value>This is some text in NinaB.tinyfnt</value>
+    <value>crwdns6646626:0crwdne6646626:0</value>
   </data>
   <data name="strnSmallFont" xml:space="preserve">
-    <value>This is some text in small.tinyfnt</value>
+    <value>crwdns6646628:0crwdne6646628:0</value>
   </data>
   <data name="strSegoeUIRegular12" xml:space="preserve">
-    <value>This is some text in SegoeUIRegular12</value>
+    <value>crwdns6646630:0crwdne6646630:0</value>
   </data>
 </root>
